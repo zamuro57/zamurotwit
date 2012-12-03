@@ -40,7 +40,7 @@ gem 'html5_validators'
 gem 'curb'
 gem "ckeditor"
 gem 'paperclipdropbox'
-gem 'twitter-bootstrap-rails'
+# gem 'twitter-bootstrap-rails'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
