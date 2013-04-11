@@ -23,6 +23,7 @@ end
 gem 'jquery-rails'
 
 gem 'heroku'
+gem 'newrelic_rpm'
 gem 'thin'
 gem 'devise'
 gem 'devise-encryptable'
@@ -40,6 +41,7 @@ gem 'html5_validators'
 gem 'curb'
 gem "ckeditor"
 gem 'paperclipdropbox'
+
 # gem 'twitter-bootstrap-rails'
 
 # To use ActiveModel has_secure_password
